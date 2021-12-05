@@ -1,4 +1,4 @@
-Moch. Iqbal Dzulfiqar Rahman
+Moch. Iqbal Dzulfiqar Rahman | 
 Frontend Developers
 
 <p align="center">
