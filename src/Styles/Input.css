@@ -1,0 +1,25 @@
+.input {
+    height: 3em;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-weight: 700;
+    font-size: 1.4em;
+    flex-wrap: wrap;
+    color: #000;
+    font-weight: 600;
+    padding: 10px;
+}
+
+.invalidInput {
+    height: 3em;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-weight: 700;
+    font-size: 1.4em;
+    background-color: rgb(236, 18, 18);
+    color: #FFF;
+    padding: 10px;
+}
+

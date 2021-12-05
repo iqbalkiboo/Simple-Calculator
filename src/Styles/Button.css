@@ -1,0 +1,29 @@
+.btn-wrapper {
+    height: 3em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.4em;
+    background-color: rgb(129, 145, 197);
+    color: #f5f8fa;
+    flex: 1;
+    /* outline: 1px solid #3d4347; */
+    border-radius: 40px;
+    margin: 10px;
+    font-weight: 600;
+}
+
+.btn-wrapper:active:hover {
+    background-color: rgba(129, 145, 197, 0.4);
+}
+
+.operator {
+    background-color: rgb(255, 172, 238);
+    color: #fafbfc;
+    border-radius: 40px;
+    margin: 10px;
+}
+
+.operator:active:hover {
+    background-color: rgba(255, 172, 238, 0.4);
+}
